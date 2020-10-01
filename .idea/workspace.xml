@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5aeb0419-8ecf-4dca-98dd-60af34f38ece" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iCfSCtJtRwMERuqjiUYyOU82t8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes/tarsalc" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5aeb0419-8ecf-4dca-98dd-60af34f38ece" name="Default Changelist" comment="" />
+      <created>1601416491842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601416491842</updated>
+      <workItem from="1601416493214" duration="11280000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2260" y="439" key="#WordPress" timestamp="1601416528577">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2260" y="439" key="#WordPress/1440.23.1920.1057/0.23.1440.877/3360.23.1920.1057@1440.23.1920.1057" timestamp="1601416528577" />
+    <state x="2245" y="437" key="NewPhpFileDialog" timestamp="1601421937202">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2245" y="437" key="NewPhpFileDialog/1440.23.1920.1057/0.23.1440.877/3360.23.1920.1057@1440.23.1920.1057" timestamp="1601421937202" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>$PROJECT_DIR$</wordpressPath>
+  </component>
+</project>
